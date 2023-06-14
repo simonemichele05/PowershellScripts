@@ -1,2 +1,3 @@
+Write-Host "1"
 Start-Sleep -Second 3
-Write-Host "aklndfakfsnaoksdf"
+Write-Host "2"
