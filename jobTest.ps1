@@ -1,3 +1,2 @@
-Write-Host "1"
 Start-Sleep -Second 10
-Write-Host "2"
+"ciao" | Out-File -FilePath "$PSScriptRoot/temp.txt" -Encoding UTF8
